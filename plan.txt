@@ -1,0 +1,13 @@
+Here is a plan for the initial piece of functionality that is intended to be created and implmented via this app and api:
+
+Give API a number via a post request, and determine if the number is prime.
+
+Check a database for previous results, so that repeated calculation isn't done.
+
+Respond with an json object that represents what it took to determine the primality of the number in question.
+- Number
+- Time that request was received
+- Time response sent
+- request/response processing time
+- isPrime
+- primeFactorDecomposition
