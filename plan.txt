@@ -1,4 +1,4 @@
-Here is a plan for the initial piece of functionality that is intended to be created and implmented via this app and api:
+Here is a plan for the initial piece of functionality that is intended to be created and implemented via this app and api:
 
 Give API a number via a post request, and determine if the number is prime.
 
