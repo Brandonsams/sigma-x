@@ -1,0 +1,18 @@
+{
+	"request": {
+		"url_path": "/prime/isPrime"
+		"url_parameters": {
+			"number": 2
+		}
+		"ts_request_recieved": 1673929286000
+	},
+	"response": {
+		"ts_response_sent": 1673929321000,
+		"response_object": {
+			"is_prime": True,
+			"prime_factor_decomposition": [
+				2
+			]
+		}
+	}
+}
